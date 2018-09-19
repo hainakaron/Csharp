@@ -1,0 +1,14 @@
+C:\Users\hainaalfonso\source\repos\SampleProblem2_2DArray\SampleProblem2_2DArray\bin\Debug\SampleProblem2_2DArray.exe.config
+C:\Users\hainaalfonso\source\repos\SampleProblem2_2DArray\SampleProblem2_2DArray\bin\Debug\SampleProblem2_2DArray.exe
+C:\Users\hainaalfonso\source\repos\SampleProblem2_2DArray\SampleProblem2_2DArray\bin\Debug\SampleProblem2_2DArray.pdb
+C:\Users\hainaalfonso\source\repos\SampleProblem2_2DArray\SampleProblem2_2DArray\obj\Debug\SampleProblem2_2DArray.csprojAssemblyReference.cache
+C:\Users\hainaalfonso\source\repos\SampleProblem2_2DArray\SampleProblem2_2DArray\obj\Debug\SampleProblem2_2DArray.csproj.CoreCompileInputs.cache
+C:\Users\hainaalfonso\source\repos\SampleProblem2_2DArray\SampleProblem2_2DArray\obj\Debug\SampleProblem2_2DArray.exe
+C:\Users\hainaalfonso\source\repos\SampleProblem2_2DArray\SampleProblem2_2DArray\obj\Debug\SampleProblem2_2DArray.pdb
+C:\Users\hainaalfonso\Documents\GitHub\Csharp\SampleProblem2_2DArray\SampleProblem2_2DArray\bin\Debug\SampleProblem2_2DArray.exe.config
+C:\Users\hainaalfonso\Documents\GitHub\Csharp\SampleProblem2_2DArray\SampleProblem2_2DArray\bin\Debug\SampleProblem2_2DArray.exe
+C:\Users\hainaalfonso\Documents\GitHub\Csharp\SampleProblem2_2DArray\SampleProblem2_2DArray\bin\Debug\SampleProblem2_2DArray.pdb
+C:\Users\hainaalfonso\Documents\GitHub\Csharp\SampleProblem2_2DArray\SampleProblem2_2DArray\obj\Debug\SampleProblem2_2DArray.csprojAssemblyReference.cache
+C:\Users\hainaalfonso\Documents\GitHub\Csharp\SampleProblem2_2DArray\SampleProblem2_2DArray\obj\Debug\SampleProblem2_2DArray.csproj.CoreCompileInputs.cache
+C:\Users\hainaalfonso\Documents\GitHub\Csharp\SampleProblem2_2DArray\SampleProblem2_2DArray\obj\Debug\SampleProblem2_2DArray.exe
+C:\Users\hainaalfonso\Documents\GitHub\Csharp\SampleProblem2_2DArray\SampleProblem2_2DArray\obj\Debug\SampleProblem2_2DArray.pdb
