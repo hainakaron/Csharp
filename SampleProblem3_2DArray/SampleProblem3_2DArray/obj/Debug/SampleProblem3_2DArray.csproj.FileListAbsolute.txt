@@ -1,0 +1,7 @@
+C:\Users\hainaalfonso\source\repos\SampleProblem3_2DArray\SampleProblem3_2DArray\obj\Debug\SampleProblem3_2DArray.csprojAssemblyReference.cache
+C:\Users\hainaalfonso\source\repos\SampleProblem3_2DArray\SampleProblem3_2DArray\obj\Debug\SampleProblem3_2DArray.csproj.CoreCompileInputs.cache
+C:\Users\hainaalfonso\source\repos\SampleProblem3_2DArray\SampleProblem3_2DArray\bin\Debug\SampleProblem3_2DArray.exe.config
+C:\Users\hainaalfonso\source\repos\SampleProblem3_2DArray\SampleProblem3_2DArray\bin\Debug\SampleProblem3_2DArray.exe
+C:\Users\hainaalfonso\source\repos\SampleProblem3_2DArray\SampleProblem3_2DArray\bin\Debug\SampleProblem3_2DArray.pdb
+C:\Users\hainaalfonso\source\repos\SampleProblem3_2DArray\SampleProblem3_2DArray\obj\Debug\SampleProblem3_2DArray.exe
+C:\Users\hainaalfonso\source\repos\SampleProblem3_2DArray\SampleProblem3_2DArray\obj\Debug\SampleProblem3_2DArray.pdb
