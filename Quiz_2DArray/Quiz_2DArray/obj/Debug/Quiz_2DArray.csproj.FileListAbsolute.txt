@@ -1,0 +1,7 @@
+C:\Users\hainaalfonso\source\repos\Quiz_2DArray\Quiz_2DArray\bin\Debug\Quiz_2DArray.exe.config
+C:\Users\hainaalfonso\source\repos\Quiz_2DArray\Quiz_2DArray\bin\Debug\Quiz_2DArray.exe
+C:\Users\hainaalfonso\source\repos\Quiz_2DArray\Quiz_2DArray\bin\Debug\Quiz_2DArray.pdb
+C:\Users\hainaalfonso\source\repos\Quiz_2DArray\Quiz_2DArray\obj\Debug\Quiz_2DArray.csprojAssemblyReference.cache
+C:\Users\hainaalfonso\source\repos\Quiz_2DArray\Quiz_2DArray\obj\Debug\Quiz_2DArray.csproj.CoreCompileInputs.cache
+C:\Users\hainaalfonso\source\repos\Quiz_2DArray\Quiz_2DArray\obj\Debug\Quiz_2DArray.exe
+C:\Users\hainaalfonso\source\repos\Quiz_2DArray\Quiz_2DArray\obj\Debug\Quiz_2DArray.pdb
