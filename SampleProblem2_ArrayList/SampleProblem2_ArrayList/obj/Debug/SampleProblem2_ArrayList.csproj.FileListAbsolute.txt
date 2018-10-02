@@ -1,0 +1,7 @@
+C:\Users\hainaalfonso\source\repos\SampleProblem2_ArrayList\SampleProblem2_ArrayList\bin\Debug\SampleProblem2_ArrayList.exe.config
+C:\Users\hainaalfonso\source\repos\SampleProblem2_ArrayList\SampleProblem2_ArrayList\bin\Debug\SampleProblem2_ArrayList.exe
+C:\Users\hainaalfonso\source\repos\SampleProblem2_ArrayList\SampleProblem2_ArrayList\bin\Debug\SampleProblem2_ArrayList.pdb
+C:\Users\hainaalfonso\source\repos\SampleProblem2_ArrayList\SampleProblem2_ArrayList\obj\Debug\SampleProblem2_ArrayList.csprojAssemblyReference.cache
+C:\Users\hainaalfonso\source\repos\SampleProblem2_ArrayList\SampleProblem2_ArrayList\obj\Debug\SampleProblem2_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\hainaalfonso\source\repos\SampleProblem2_ArrayList\SampleProblem2_ArrayList\obj\Debug\SampleProblem2_ArrayList.exe
+C:\Users\hainaalfonso\source\repos\SampleProblem2_ArrayList\SampleProblem2_ArrayList\obj\Debug\SampleProblem2_ArrayList.pdb
