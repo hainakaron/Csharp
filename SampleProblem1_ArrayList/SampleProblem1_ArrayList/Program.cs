@@ -29,7 +29,6 @@ namespace SampleProblem1_ArrayList
 
 			//sorting process
 			ArrayList intcontainer = new ArrayList();
-			int index = 0;
 			for (int x = 0; x < container.Count; x++)
 			{
 				if (int.TryParse(container[x].ToString(), out int value))
