@@ -1,0 +1,7 @@
+C:\Users\hainaalfonso\source\repos\SampleProblem1_Strings\SampleProblem1_Strings\bin\Debug\SampleProblem1_Strings.exe.config
+C:\Users\hainaalfonso\source\repos\SampleProblem1_Strings\SampleProblem1_Strings\bin\Debug\SampleProblem1_Strings.exe
+C:\Users\hainaalfonso\source\repos\SampleProblem1_Strings\SampleProblem1_Strings\bin\Debug\SampleProblem1_Strings.pdb
+C:\Users\hainaalfonso\source\repos\SampleProblem1_Strings\SampleProblem1_Strings\obj\Debug\SampleProblem1_Strings.csprojAssemblyReference.cache
+C:\Users\hainaalfonso\source\repos\SampleProblem1_Strings\SampleProblem1_Strings\obj\Debug\SampleProblem1_Strings.csproj.CoreCompileInputs.cache
+C:\Users\hainaalfonso\source\repos\SampleProblem1_Strings\SampleProblem1_Strings\obj\Debug\SampleProblem1_Strings.exe
+C:\Users\hainaalfonso\source\repos\SampleProblem1_Strings\SampleProblem1_Strings\obj\Debug\SampleProblem1_Strings.pdb
